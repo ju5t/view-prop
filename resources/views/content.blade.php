@@ -1,0 +1,1 @@
+<div>From view()</div>
